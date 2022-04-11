@@ -1,0 +1,16 @@
+/Users/daniiltolkachev/Projects/2/2/bin/Debug/net5.0/homework1
+/Users/daniiltolkachev/Projects/2/2/bin/Debug/net5.0/homework1.deps.json
+/Users/daniiltolkachev/Projects/2/2/bin/Debug/net5.0/homework1.runtimeconfig.json
+/Users/daniiltolkachev/Projects/2/2/bin/Debug/net5.0/homework1.runtimeconfig.dev.json
+/Users/daniiltolkachev/Projects/2/2/bin/Debug/net5.0/homework1.dll
+/Users/daniiltolkachev/Projects/2/2/bin/Debug/net5.0/homework1.pdb
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.csproj.AssemblyReference.cache
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.AssemblyInfoInputs.cache
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.AssemblyInfo.cs
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.csproj.CoreCompileInputs.cache
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.dll
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/refint/homework1.dll
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.pdb
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/homework1.genruntimeconfig.cache
+/Users/daniiltolkachev/Projects/2/2/obj/Debug/net5.0/ref/homework1.dll
