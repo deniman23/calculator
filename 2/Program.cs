@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace homework1
+namespace Homework1
 
 {
     class Program
@@ -9,8 +9,6 @@ namespace homework1
         {
             try
             {
-
-
                 double Number_one = Convert.ToDouble(Console.ReadLine());
                 double Number_two = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine("Выберете действие");
@@ -53,7 +51,7 @@ namespace homework1
             {
                 Console.WriteLine("Конец программы");
             }
-
+            Console.ReadLine();
         }
     }
 }
